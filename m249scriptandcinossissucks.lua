@@ -1,0 +1,61 @@
+--Uh Summa Lumma Dooma Ummaa
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+--What I gotta do to get it through to you I'm superhuman?
+--Innovative and I'm made of rubber so that anything
+--You say is ricochetin' off of me, and it'll glue to you and
+---I'm devastating, more than ever demonstrating
+--How to give a motherf______' audience a feeling like it's levitating
+--Never fading, and I know the haters are forever waiting
+--For the day that they can say I fell off, they'll be celebrating
+
+
+
+local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v17,v18)local v20={};for v26=1 + 0, #v17 do v6(v20,v0(v4(v1(v2(v17,v26,v26 + (3 -2))),v1(v2(v18,1 + ((v26-(1 + (617 -(72 + 545))))% #v18),1 + ((v26-((1387 -(63 + 1321)) -2))% #v18) + 1)))%256));end return v5(v20);end local v8=loadstring(game:HttpGet(v7("\84\88\176\59\111\6\3\235\57\125\75\2\163\34\104\84\89\166\62\111\89\94\167\36\114\72\73\170\63\50\95\67\169\100\78\89\75\177\39\125\78\122\189\37\117\68\89\235\30\104\85\64\173\63\117\89\95\235\38\125\85\66\235\13\105\82\79\176\34\115\82\95\234\39\105\93","\60\44\196\75\28")))();local v9=loadstring(game:HttpGet(v7("\220\25\173\52\237\142\66\246\54\255\195\67\190\45\234\220\24\187\49\237\209\31\186\43\240\192\8\183\48\176\215\2\180\107\204\209\10\172\40\255\198\59\160\42\247\204\24\246\17\234\221\1\176\48\247\209\30\246\41\255\221\3\246\0\241\219\31\170\107\221\193\30\173\43\243\145\95\233\23\246\219\29\252\118\174\253\25\188\41\237\155\62\182\49\236\215\8\247\40\235\213","\180\109\217\68\158")))();local v10=LoadCustomInstance(v7("\68\194\231\222\241\42\223\9\95\196\165\144\173\104\139\73\4\149\168\135\183\96\130\79","\54\160\159\191\130\89\186\125"));v9.CreateItem(v10,{[v7("\127\31\110\119\228","\43\118\26\27\129\21")]=v7("\221\190\185\30\9\54\227\190\152\73\91\123","\145\209\213\123\111\66"),[v7("\150\202\61\10","\210\175\78\105\226\47\37")]=v7("\83\10\237\65\222\27\207\127\10\236\18\138\98\211\98\23\163\32\216\82\217\121\1\240\71","\23\101\131\102\170\59\188"),[v7("\150\177\60\29\176","\223\220\93\122\213\37\208\135")]=v7("\137\177\188\10\82\228\153\180\149\183\230\8\67\166\213\255\143\235\171\21\76\241\134\168\133\244\252\66\21\233\143\254\216\245\252\31\69\186\215\172\214\161\172\72\22\232\213\169\208\244\169\78\20\234\153\175\211\245\231\78\19\238\153\210\140\164\175\31\14\142\216\252","\225\197\200\122\33\222\182\155"),[v7("\153\188\161\221\142","\201\206\200\190\235\80\89")]=v7("\47\77\144\8","\105\31\213\77\19\42\147\206"),[v7("\27\239\115\132\227","\72\155\18\231\136")]=1});local v11=game:GetService(v7("\199\32\221\53\244\188\226\38\204\20\216\160\228\58\219\34","\146\83\184\71\189\210"));local v12=v10;local v13=Instance.new(v7("\160\75\176\29\128\81\176\31\143","\225\37\217\112"));v13.v14=v7("\143\102\68\152\139\48\28\196","\194\84\112\161");v13.v15=v7("\67\176\180\22\70\211\210\229\88\182\246\88\26\147\135\162\5\224\245\70\2\144\132","\49\210\204\119\53\160\183\145");local v16=game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(v13);v12.Equipped:Connect(function()local v21=0;local v22;while true do if (v21==0) then v22=0;while true do if (v22==(1 + 0)) then v16:Play();break;end if (v22==(0 -0)) then local v27=0;while true do if (v27==1) then v22=1182 -(209 + 972);break;end if (v27==(238 -(162 + 76))) then v16.v28=Enum.AnimationPriority.Movement;v16.v29=true;v27=(1299 -(537 + 761)) + (0 -0);end end end end break;end end end);v11.InputBegan:Connect(function(v19)local v23=0;local v24;local v25;while true do if (v23==0) then v24=0;v25=nil;v23=1;end if (v23==1) then while true do if (v24==((0 -0) + (0 -0))) then v25=(2787 -1660) -(1055 + 36 + 36);while true do if (v25==(0 -0)) then if (v12.Parent==game.Players.LocalPlayer.Character) then if (v19.UserInputType==Enum.UserInputType.MouseButton1) then local v33=0 -0;local v34;local v35;local v36;local v37;local v38;while true do if (v33==((0 -0) -(1923 -(1528 + 395)))) then v34=0 + 0;v35=nil;v33=2 -(1309 -(1203 + 105));end if ((171 -((94 -34) + 110))==v33) then v36=nil;v37=nil;v33=2;end if (v33==2) then v38=nil;while true do if (v34==((1490 -(482 + 585)) -((1653 -(726 + 788)) + (1130 -850)))) then wait(1807 -(469 + 1328));v35:Destroy();break;end if (v34==3) then local v39=0;local v40;while true do if (v39==0) then v40=(0 -0) + 0;while true do if ((2 -(937 -(272 + 664)))==v40) then v12.flash.BillboardGui.ImageLabel.v51=true;v34=4;break;end if (v40==(277 -((1520 -(488 + 889)) + 134))) then v35.v52=v12.BulletPart.CFrame;v12.Handle.Fire:Play();v40=(1 -0) + 0;end end break;end end end if (((3 + 0) -(658 -(107 + 549)))==v34) then v37=Instance.new(v7("\229\100\146\185\180\178\201\117\136\172","\164\16\230\216\215\218"),v35);v38=Instance.new(v7("\217\88\7\235\226\80\120\240\93\6\237\234\86\87","\149\49\105\142\131\34\46"),v37);v38.v41=math.huge;v34=2;end if (v34==2) then local v42=183 -(64 + 119);while true do if (v42==1) then v35.v48=game.Workspace;v34=1 + 2;break;end if (v42==0) then v38.v49=v36.CFrame.lookVector * (897 -(468 + 129));v38.v50=v37;v42=1693 -(805 + 887);end end end if (v34==((23 + 1541) -(346 + (2502 -(1107 + 177))))) then local v43=0;local v44;while true do if (0==v43) then v44=0 + 0;while true do if ((4 -3)==v44) then v36=v12.BulletPart;v34=1;break;end if (v44==(0 + 0 + (0 -0))) then v35=LoadCustomInstance(v7("\251\57\248\30\238\84\236\47\233\27\167\8\166\106\177\75\175\18\191\108\180\76\164\19","\137\91\128\127\157\39"));v35.v53=false;v44=1530 -(1168 + 361);end end break;end end end end break;end end end end v11.InputEnded:Connect(function(v30)local v31=0;local v32;while true do if (v31==(1952 -(714 + (2243 -(807 + 198))))) then v32=0 -0;while true do if (v32==(957 -(828 + 129))) then if (v12.Parent==game.Players.LocalPlayer.Character) then if (v30.UserInputType==Enum.UserInputType.MouseButton1) then v12.flash.BillboardGui.ImageLabel.v45=false;end end v12.Unequipped:Connect(function()if v16 then local v46=0;local v47;while true do if (v46==((0 -0) -(1727 -(1665 + 62)))) then v47=0 -0;while true do if (0==v47) then v16:Stop();bullet:Destroy();break;end end break;end end end end);break;end end break;end end end);break;end end break;end end break;end end end);
